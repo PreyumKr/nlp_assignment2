@@ -22,7 +22,7 @@ The code for tokenizer can be found <a href = 'https://github.com/PreyumKr/nlp_a
 - Selected tokenizer 3 and tokenized the data
 - Utilized wandb to train the model efficiently.
 - Perplexity is calculated after every 0.1 epoch.
-- Model inference can be found <a href = 'https://github.com/PreyumKr/nlp_assignment2/blob/main/Tokenizer_Training.ipynb'> here. </a>
+- Model inference can be found <a href = 'https://github.com/PreyumKr/nlp_assignment2/blob/main/inference.ipynb'> here. </a>
 
 
 
